@@ -1,0 +1,4 @@
+# ignore node_modules it will not tract node_modules
+node_modules/
+# git will not tract .env file and does not push on github
+.env
